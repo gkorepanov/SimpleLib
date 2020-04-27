@@ -1,7 +1,5 @@
 # SimpleLib
-## Create your personal Python library in a second (on your personal PyPi)
-
-# How to use:
+Create your personal Python library in a second (on your personal PyPi)
 
 ## First setup
 
